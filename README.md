@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 ## Setup
 
-1. Download the following [camera matrix](https://www.mrpt.org/downloads/camera-calibration-checker-board_9x7.pdf)
+1. Download the following [camera calibration checkerboard](https://www.mrpt.org/downloads/camera-calibration-checker-board_9x7.pdf)
 2. Print the checker board on an A4 sheet
 3. Place the checker board on a solid board
 4. Record a video while moving the checker board around the visualized frame
